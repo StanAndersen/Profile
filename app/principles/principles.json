@@ -1,0 +1,64 @@
+[
+
+    {
+        "id":"Encapsulate-what-varies", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Encapsulate what varies", 
+        "snippet":"Encapsulating what varies allows provides protection to other components if they need to be modified later."
+    },
+    {
+        "id":"Favor-compostion-over-inheritance", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Favor composition over inheritance", 
+        "snippet":"Both are powerful tools but composition allows for more flexibility including runtime flexibility."
+    },
+    {
+        "id":"Program-to-interface", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Program to an interface not an implementation", 
+        "snippet":"This principle is very important allow for loose coupling and does not lock code to a particular class"
+    },
+    {
+        "id":"DRY", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Don't repeat yourself (DRY)", 
+        "snippet":"This may be more of a goal than a principle. But being a DRY programmer rather than a WET (Write Everything Twice) programmer, makes the code more elegant and maintanable."
+    },
+    {
+        "id":"Strive-for-loosely-coupled-designs", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Strive for loosely coupled designs between objects that interact", 
+        "snippet":"When this is done changes to either object will not affect the other"
+    },
+    {
+        "id":"Open-close", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"The Open Close Principle", 
+        "snippet":"Classes should be open for extension but closed for modification. This method allows older code to remain backward compatible and avoid errors while allowing for new development without the need for a new class"
+    },
+    {
+        "id":"Dependency-inversion", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Dependency inversion principle", 
+        "snippet":"Depend on abstraction, and not concrete classes. While this principle can be impossible to follow it is a great way to design. It naturally allows for losse coupling and can be a great way to avoid long complicated forks. "
+    },
+    {
+        "id":"Least-Knowledge", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Least Knowledge principle", 
+        "snippet":"The principle states try to talk only directly with a few members of the objects that are contained in the class. Delegeter methods can be useful in achieving this objective."
+    },
+    {
+        "id":"Hollywood-Knowledge", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Hollywood principle", 
+        "snippet":"It means that high leven components call low level components and never the other way around."
+    },
+    {
+        "id":"Single-Responsibility", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Single Responsibility principle", 
+        "snippet":"This principle is incredibly hard to achieve and directly relates to the level of cohesion a class has. Instead of strictly following this principle I often ask do I know that a year from now it likely any one thing will change. If the answer is yes then if it logical seperate that part out."
+    }
+
+]

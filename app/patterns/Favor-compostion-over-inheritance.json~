@@ -1,0 +1,21 @@
+{
+    "experiences": [
+         {
+            "name":"Refactoring an Enterprise Java Application for dynamic Business Logic",
+            "description":"Refactoring enterprise application with this principle in mind can significantly improve maintenance.",
+            "explanation": "More so now than ever with increasing popularity of the AGILE development methodology and Test Driven Development (TDD), refactoring has the ability to minimize the amount of work in maintenance and on-boarding. TDD is most effectively and easily done when tests are created using dependency injection instead of through the use of classLoaders and proxies. In Java getting the desired behavior through the use of an object is preferable over the use of getting the same behavior through the use of a superclass.  This principle can be seen in many different patterns and has the benefits of making extension and trouble shooting easy. New functionality can simply be created by altering the composed objects behavior and trouble shooting can be done using the (smaller) composed object rather the object possessor. The downside of composition is if used inappropriately it can mean having more classes. To mitigate the effects, it is important to take proper care to organize the code. In Java visibility may be able to help with minimizing the size of the effective namespace."
+         }
+    ], 
+    "description": "Favor composition over inheritance", 
+    "id": "Favor-composition-over-inheritance", 
+    "images": [
+        "img/phones/dell-streak-7.0.jpg", 
+        "img/phones/dell-streak-7.1.jpg", 
+        "img/phones/dell-streak-7.2.jpg", 
+        "img/phones/dell-streak-7.3.jpg", 
+        "img/phones/dell-streak-7.4.jpg"
+    ], 
+    "name": "Favor composition over inheritance" 
+
+}
+

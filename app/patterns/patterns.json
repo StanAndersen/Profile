@@ -1,0 +1,86 @@
+[
+    {
+        "id":"strategy", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Strategy Pattern", 
+        "snippet":"A family of algorithms, encapsulating each one, and making them interchangeable."
+    },
+    {
+        "id":"observer", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Observer Pattern", 
+        "snippet":"An observer pattern is used to notify dependents of state changes of the object of interest"
+    },
+    {
+        "id":"decorator", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Decorator Pattern", 
+        "snippet":"It is a pattern to avoid subclassing, it attaches additional reponsibility to an object dynamically"
+    },
+    {
+        "id":"factory", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Factory Pattern", 
+        "snippet":"Possibly my favorite pattern. It allows for constrution via an interface and allows subclasses to instantiate a concrete subclass"
+    },
+    {
+        "id":"singleton", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Singleton Pattern", 
+        "snippet":"A simple idea that can have be complicated by multithreading and intializers such as classloaders for the JVM"
+    },
+    {
+        "id":"command", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Command Pattern", 
+        "snippet":"Encapsulating the action as an object. I often think of threads as an example of a simple command pattern"
+    },
+    {
+        "id":"adapter", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Adapter Pattern", 
+        "snippet":"The adapter pattern is exactly as it sounds. Take one interface and convert it to another. Transformation factories can be thought of as adapters"
+    },
+    {
+        "id":"facade", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Facade Pattern", 
+        "snippet":"It takes a complex set of subsystems and delivers one simple interface for common interactions. The details can still be accessed but in most cases the simpler facade can be used with ease"
+    },
+    {
+        "id":"template", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Template Pattern", 
+        "snippet":"Extremely useful pattern for encapsulating algorithms. If you are going to do the same thing with a slight change over and over this is a great pattern."
+    },
+    {
+        "id":"iterable", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Iterable Pattern", 
+        "snippet":"The iterable pattern is a simple way to get the item in a collection one by one. It is a simple pattern but can be extremely useful for loose coupling."
+    },
+    {
+        "id":"composite", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Composite Pattern", 
+        "snippet":"It allows for an individual object and a tree containing those individual objects to be treated the same way."
+    },
+    {
+        "id":"state", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"State Pattern", 
+        "snippet":"A state pattern allows for varying behavoir when the internal state changes"
+    },
+    {
+        "id":"proxy", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Proxy Pattern", 
+        "snippet":"It can be used in many interesting ways but formally it provides a surrogate or placeholder for another object to control access to it"
+    },
+    {
+        "id":"MVC", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Model-View-Controller Pattern", 
+        "snippet":"The most common compound pattern in the industry. Almost all common frameworks for web application are MVC. As far as patterns go the view is a composite (most GUIs are). The model uses an observer pattern with the model the observable and other components the observers. The controller uses a strategy pattern, it controls the strategy and the view delegates input response to the controller."
+    }
+]

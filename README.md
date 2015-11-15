@@ -1,0 +1,2 @@
+#this application is  an angular application that will eventually act as my profile
+It started in angular but should be should be converted into Angular 2.0 with typescipt. At the moment IDE tooling is limited so it will be developed on vim and should serve eventually be useful. Last note: I am more of a backend java developer but have in the past and will in the future continue to learn and develope front end applications. 

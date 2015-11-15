@@ -1,0 +1,8 @@
+[
+    {
+        "id":"Favor-compostion-over-inheritance", 
+        "imageUrl":"img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name":"Favor composition over inheritance", 
+        "snippet":"Both are powerful tools but composition allows for easy flexibility."
+    }
+]
